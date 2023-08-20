@@ -1,1 +1,1 @@
-This is a second file created in a local repository, hope it will be added on github
+This is a second file created in a local repository, hope it will be added on github. This is my second change
